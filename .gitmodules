@@ -1,0 +1,9 @@
+[submodule "GoServer"]
+	path = GoServer
+	url = git@github.com:shubhodeep9/JivoxCensusGo.git
+[submodule "PythonServer"]
+	path = PythonServer
+	url = git@github.com:winuall/jivox-hack.git
+[submodule "Angular"]
+	path = Angular
+	url = git@github.com:rishiraj824/TeamRocketFrontEnd.git
